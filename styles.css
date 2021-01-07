@@ -10,7 +10,11 @@ html {
   font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
 }
 
-p, li {
+h2 {
+	text-align: left;
+}
+
+p, li, h3 {
   font-size: 12px;
   line-height: 2;
   letter-spacing: 1px;
@@ -18,4 +22,9 @@ p, li {
 
 html {
   background-color: #c7d6ff;
+}
+
+.quotes {
+  background-color: #c7d6ff;
+  border: 2px solid purple;	
 }
