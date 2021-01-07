@@ -24,7 +24,16 @@ html {
   background-color: #c7d6ff;
 }
 
-.quotes {
+.quotesdiv {
   background-color: #c7d6ff;
-  border: 2px solid purple;	
+  border: 2px solid purple;
+  width: 50%;	
+}
+
+.quote {
+	font-weight: bolder;
+}
+
+img {
+	width: 50%;
 }
