@@ -1,9 +1,10 @@
 const myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';
 
+
  // Define a Function
  function sayOuch() {
- 	alert('Ouch! Stop poking me!');
+ 	alert('Poking me wont make this problem go away');
  }
  
  // Use a CSS selector to identify an element
